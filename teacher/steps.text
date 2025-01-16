@@ -1,2 +1,6 @@
 1. python manage.py startapp teacher
-2. 
+2. templates > Home > teacher-dashboard.html
+3. teacher > models > teacher > 
+4. Home > settings.py > apps> python manage.py makemigrations > python manage.py migrate
+5. 
+
